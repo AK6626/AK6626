@@ -1,6 +1,6 @@
-- Hi, I’m @AK6626, an enginer instead of a programer.
-- Most I've done is about thermal engine and electric games, for work or interest.
-- Reach me by sandruse@163.com
+- Hi, I’m @AK6626, a thermal engineer.
+- Most of my job here is about thermal engineering or video games(for fun).
+- Contact me by email, sandruse@163.com
 
 <!---
 AK6626/AK6626 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
